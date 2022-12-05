@@ -21,3 +21,13 @@ p{
   margin: 0;
 }
 
+/* box ------------------------------------------------------ */
+
+#box{
+  padding: 100px;
+  text-align: center;
+  min-width: 500px;
+  font-size: 3em;
+  font-weight: bold;
+  -webkit-backface-visibility: hidden; /*fixes flashing */
+}
