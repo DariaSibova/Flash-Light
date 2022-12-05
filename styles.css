@@ -52,3 +52,10 @@ p{
   margin-left: 20px;
   transition: margin-left 1s cubic-bezier(0,0.75,0,1);
 }
+
+/* light ------------------------------------------------------ */
+
+#light{
+  display: inline-block;
+  text-shadow: #111 0 0 1px,rgba(255,255,255,0.1)0 1px 3px;
+}
