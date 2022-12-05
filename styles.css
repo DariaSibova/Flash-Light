@@ -31,3 +31,11 @@ p{
   font-weight: bold;
   -webkit-backface-visibility: hidden; /*fixes flashing */
 }
+
+/* flashlight ------------------------------------------------------ */
+
+#flashlight{
+  color: hsla(0,0%,0%,0);
+  perspective: 80px;
+  outline: none;
+}
