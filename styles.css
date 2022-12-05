@@ -59,3 +59,7 @@ p{
   display: inline-block;
   text-shadow: #111 0 0 1px,rgba(255,255,255,0.1)0 1px 3px;
 }
+
+#box:hover #light{
+  text-shadow: #fff 0 0 4px,#fcffbb 0 0 20px;
+}
