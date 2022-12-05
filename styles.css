@@ -1,0 +1,8 @@
+/* Global ------------------------------------------------------ */
+
+html{
+  overflow: hidden; /*FF fix*/
+  height: 100%;
+  font-family: Geneva ,sans-serif;
+background: hsl(210, 30%, 0%) radial-gradient(hsl(210,30%,20%),hsl(210,30%,0%)); 
+}
